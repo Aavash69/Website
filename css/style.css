@@ -1,0 +1,195 @@
+.top_container {
+  text-align: center;
+  background-color: #E4F9F5;
+  position: relative;
+}
+
+/* <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap" rel="stylesheet">*/
+h1 {
+  padding-top: 100px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Original Surfer', cursive;
+}
+
+h3 {
+  font-family: 'Original Surfer', cursive;
+  color: #66BFBF;
+}
+
+p {
+  font-family: 'Ubuntu', sans-serif;
+  margin-bottom: 0px;
+}
+
+body {
+  margin: 0px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.middle-container {
+  text-align: center;
+  background-color: #FBEEE4;
+}
+
+.bottom-container {
+  text-align: center;
+  background-color: #11999E;
+  padding-top: 30px;
+  font-family: 'Ubuntu', sans-serif;
+  padding-bottom: 30px;
+}
+
+.top_cloud {
+  padding-top: 50px;
+  position: absolute;
+  right: 300px;
+  line-height: 2;
+}
+
+.bottom_cloud {
+  display: block;
+  position: absolute;
+  left: 300px;
+  padding-top: 10px;
+  line-height: 2;
+}
+
+.Top {
+  font-family: 'Original Surfer', cursive;
+  border-bottom: dotted;
+  border-color: grey;
+  position: fixed;
+  top: 20px;
+  left: 30px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  color: #808080;
+}
+
+.Topright {
+  font-family: 'Original Surfer', cursive;
+  position: fixed;
+  top: 20px;
+  right: 30px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  color: #808080;
+}
+
+.computer {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+
+  border-radius: 50%;
+}
+
+.start {
+  font-size: 200%;
+  font-weight: normal;
+
+}
+
+hr {
+  height: 0px;
+  border-color: grey;
+  border-width: thick;
+  border-style: dotted none none;
+  width: 5%;
+}
+
+.Aavash {
+  padding-top: 30px;
+}
+
+.btn{
+  line-height: 3;
+}
+
+.skill-row{
+
+
+  width: 50%;
+  margin: 30px auto 30px auto;
+    text-align: left;
+
+}
+
+.skills{
+  padding-top: 30px;
+  line-height: 2;
+
+
+}
+
+.f1{
+  margin-right: 20px;
+  float: left;
+  width: 25%;
+}
+
+.contact-me{
+
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.btn {
+  margin-top: 30px;
+
+   background: #3D94F6;
+
+
+   color: #FFFFFF;
+   font-family: 'Original Surfer', cursive;
+   font-size: 15px;
+   font-weight: 100;
+   border: solid #337FED 1px;
+   padding-right: 10px;
+   padding-left: 10px;
+
+
+
+
+
+
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+
+
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+
+}
+
+.req{
+  padding-top:20px;
+}
+
+.footer-link{
+  text-decoration: none;
+
+}
+.footer-link:hover{
+  color: white;
+}
